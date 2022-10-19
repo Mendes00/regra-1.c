@@ -1,0 +1,5 @@
+#include <stdio.h>
+Int main (){
+
+  Printf("Pedra, papel e tesoura");
+}
